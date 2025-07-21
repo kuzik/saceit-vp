@@ -83,9 +83,10 @@ int main(int argc, char *argv[])
 Цей код встановлює стиль "Fusion" для вашого додатку. Ви можете замінити "Fusion" на будь-який інший стиль, який підтримується Qt, наприклад, "Windows", "Macintosh", "Motif" тощо.
 
 Приклад використання стилів у Qt Creator:
-> macOS стиль
+> macOS стиль <br>
 ![](images/macos-style.png)
-> Fusion стиль
+
+> Fusion стиль <br>
 ![](images/fusion-style.png)
 
 
